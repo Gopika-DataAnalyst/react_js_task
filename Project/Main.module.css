@@ -1,0 +1,49 @@
+.head{
+    
+    padding-top: 5%;
+    text-align: center;
+    max-width: 100%;
+    font-size: xx-large;
+    font-weight: 90%;
+    background-image: url('https://www.istockphoto.com/photo/defocused-background-image-of-a-spacious-hallway-in-a-modern-office-gm1501103626-522338105?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fcreative%2520background%2F&utm_term=creative+background'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+   
+    max-width: 100%;
+    padding-top: 1%;
+    text-align: start;
+    justify-content:center;
+    padding-bottom: 20%;
+    background-image: url('https://www.istockphoto.com/photo/defocused-background-image-of-a-spacious-hallway-in-a-modern-office-gm1501103626-522338105?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fcreative%2520background%2F&utm_term=creative+background'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: row;
+    display: flex;
+    
+}
+
+.content{
+    border-radius: 1%;
+    padding: 50px;
+    
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(192, 207, 202); 
+}
+.content:hover{
+    background-color: rgb(211, 184, 126);
+}
+
+.btn{
+    width: 100%;
+    padding: 5%;
+    border-radius: 5%;
+    color: rgb(184, 210, 202);
+    background-color: rgb(220, 93, 14);
+}
+.btn:hover{
+    background-color: rgb(229, 216, 225); 
+    color: rgb(43, 40, 40);
+}
